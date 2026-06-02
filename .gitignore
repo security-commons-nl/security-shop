@@ -1,0 +1,22 @@
+# ── Intern bronmateriaal — nooit publiek ────────────────────────────
+# Klant-/Alkmaar-/Leiden-context. Patronen zijn productneutraal en
+# geanonimiseerd; de bronnen blijven lokaal.
+*.xlsx
+*.docx
+*.eml
+*.pdf
+*.mp4
+*.png
+
+# ── Build artifacts ─────────────────────────────────────────────────
+site/
+.venv/
+__pycache__/
+*.pyc
+
+# ── OS / editor ─────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
