@@ -2,7 +2,6 @@
 
 **Status:** Ontwerp compleet — klaar voor review, daarna een implementatieplan.
 **Gestart:** 2026-05-20 · **Laatst bijgewerkt:** 2026-05-22
-**Auteur:** Bas Stevens (sparring met Claude)
 **Project:** `X:\SECURITY-COMMONS-NL\security-shop\` → toekomstige repo `github.com/security-commons-nl/security-shop`
 
 > Let op: de werkmap heet nog `security-architecture`; de hernoeming naar `security-shop` staat open (zie §16).
