@@ -20,3 +20,6 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+
+# Concepten uit de mockup, grondstof voor de kennisbank; niet versiebeheerd.
+_dump/
